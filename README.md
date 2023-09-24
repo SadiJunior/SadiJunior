@@ -18,6 +18,10 @@
     </div>
     <br>
     <div style="text-align: center; align-items: center; justify-content: center;">
+        <a href="https://sadijunior.github.io/personal-website/" target="blank" style="margin-right: 20px">
+            <img src="images/personal-webpage-icon.png" width="25" heigth="25" style="vertical-align: middle;">
+            Portfolio
+        </a>
         <a href="https://www.linkedin.com/in/sadijunior/" target="_blank" style="margin-right: 20px">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="20" heigth="20" style="vertical-align: middle;">
             LinkedIn
