@@ -18,7 +18,7 @@
     </div>
     <br>
     <div style="text-align: center; align-items: center; justify-content: center;">
-        <a href="https://sadijunior.github.io/personal-website/" target="blank" style="margin-right: 20px">
+        <a href="https://sadijunior.com/" target="blank" style="margin-right: 20px">
             <img src="images/personal-webpage-icon.png" width="25" heigth="25" style="vertical-align: middle;">
             Portfolio
         </a>
