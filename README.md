@@ -13,7 +13,7 @@
             I'm passionate about programming, music and reading.
         </p>
         <p>
-            I'm currently studying Computer Science and have been working with <b>.NET</b> and <b>C#</b> back-end development for about two years.
+            I'm currently studying Computer Science and have been working with <b>.NET</b> and <b>C#</b> back-end development for about three years.
         </p>
     </div>
     <br>
